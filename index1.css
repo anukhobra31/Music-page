@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.music-header-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.music-heading {
+    font-family: "Bree serif";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.music-subheading {
+    font-family: "Bree serif";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.night-island-card {
+    padding: 30px;
+}
+
+.night-island-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 25vh;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+
+.night-island-card {
+    padding: 30px;
+}
+
+.night-island-card-heading {
+    color: #ffe7bf;
+    font-family: "Bree serif";
+    font-size: 32px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    width: 100px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.music-detail-bg-container {
+    background-color: #03174c;
+}
+
+.music-detail-image {
+    width: 100vw;
+}
+
+.music-detail-container {
+    padding: 25px;
+}
+
+.music-detail-text {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.related-music-heading {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.related-music-card {
+    margin-right: 10px;
+}
+
+.related-music-image {
+    width: 40vw;
+    margin-bottom: 5px;
+}
+
+.related-music-name {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #ffffff;
+}
